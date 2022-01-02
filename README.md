@@ -11,7 +11,7 @@ For more information, you can take a look at the [paper](https://dl.acm.org/doi/
 
 If you find this repo to be useful, please cite our paper. Thank you.
 
-···
+```
 @inbook{10.1145/3459637.3482327,
 author = {He, Li and Chen, Hongxu and Wang, Dingxian and Jameel, Shoaib and Yu, Philip and Xu, Guandong},
 title = {Click-Through Rate Prediction with Multi-Modal Hypergraphs},
@@ -25,6 +25,6 @@ booktitle = {Proceedings of the 30th ACM International Conference on Information
 pages = {690–699},
 numpages = {10}
 }
-···
+```
 
 
